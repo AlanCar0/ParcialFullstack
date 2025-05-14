@@ -18,7 +18,7 @@ import lombok.*;
 @Builder
 @ToString
 
-public class Cliente {
+public class cliente{
     @Id
     private String rut;
 
